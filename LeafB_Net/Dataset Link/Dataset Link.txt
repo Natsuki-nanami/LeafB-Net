@@ -1,0 +1,4 @@
+PlantVillage dataset: 
+	https://www.kaggle.com/datasets/mohitsingh1804/plantvillage
+Rice Leaf Disease Images:
+	https://www.kaggle.com/datasets/nirmalsankalana/rice-leaf-disease-image
