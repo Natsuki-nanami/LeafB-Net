@@ -1,5 +1,5 @@
 # Title
-LeafB-Net: A Frequency-Aware and Attention-based Convolutional Network for Fine-Grained Recognition of Tomato Leaf Diseases
+LeafB-Net: Integrating Frequency and Spatial Features with Dual-Channel Attention for Robust Tomato Disease Diagnosis
 # Problem Description
 Tomato is an important economic crop, yet it is severely affected and destroyed by diseases. Existing deep learning-based methods for tomato leaf disease recognition suffer from significant issues, including high computational cost, suboptimal recognition performance, and limited application scenarios. 
 # Proposed Study
