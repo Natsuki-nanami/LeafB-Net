@@ -11,3 +11,10 @@ This model explicitly integrates frequency domain analysis with spatial feature 
 The results demonstrate that LeafB-Net achieves an accuracy of 97.88% and an F1-score of 97.12% with only 5.30M parameters and 256 MFLOPs. Its performance surpasses existing deep learning classification methods. This study provides an efficient, reliable, and interpretable technical solution for the rapid diagnosis of crop diseases in mobile applications within the field of precision agriculture.
 # Repo Structure
 The LeafB-Net method has the following structure:
+
+
+# Install Dependencies
+```
+!pip install -r requirement.txt
+```
+# Github Cloning
