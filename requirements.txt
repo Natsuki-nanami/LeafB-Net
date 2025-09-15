@@ -1,5 +1,5 @@
 absl-py==2.2.2
-accimage @ file:///home/conda/feedstock_root/build_artifacts/accimage_1694355636050/work
+accimage
 asttokens==3.0.0
 attrs==25.3.0
 Automat==25.4.16
@@ -7,7 +7,7 @@ backcall==0.2.0
 beautifulsoup4==4.13.4
 bleach==6.2.0
 buildtools==1.0.6
-causal-conv1d @ file:///hy-tmp/Mamba_file/causal_conv1d-1.1.1%2Bcu118torch2.1cxx11abiFALSE-cp310-cp310-linux_x86_64.whl#sha256=f572458de281ed15fbd6f9262d44d66591416c7a903c4da699ed4d70b3cf5a83
+causal-conv1d
 certifi==2022.12.7
 charset-normalizer==2.1.1
 comm==0.2.2
@@ -49,7 +49,7 @@ jupyterlab_pygments==0.3.0
 kiwisolver==1.4.8
 lazy_loader==0.4
 lmdb==1.6.2
-mamba_ssm @ file:///hy-tmp/Mamba_file/mamba_ssm-1.1.1-cp310-cp310-linux_x86_64.whl#sha256=9ab0cbff0e507fdf30999e8710608d118af62b46c303538b52033e4cdb449c9f
+mamba_ssm 
 Markdown==3.8
 MarkupSafe==2.1.5
 matplotlib==3.10.3
