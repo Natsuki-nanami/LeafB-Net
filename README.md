@@ -18,3 +18,6 @@ The LeafB-Net method has the following structure:
 !pip install -r requirement.txt
 ```
 # Github Cloning
+```
+!git clone https://github.com/Natsuki-nanami/LeafB-Net.git
+```
